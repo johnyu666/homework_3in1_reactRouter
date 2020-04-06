@@ -1,0 +1,18 @@
+.start{
+    background-color: blue;
+    color: white;
+    line-height: 2em;
+    width: 300px;
+    border-radius: 8px;
+}
+.stop{
+    color: white;
+    line-height: 2em;
+    width: 300px;
+    border-radius: 8px;
+    background-color: red;
+}
+.pk{
+    display: inline-block;
+    margin: 10px;
+}
